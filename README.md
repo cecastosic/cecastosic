@@ -1,5 +1,6 @@
 <img width="967" alt="Svetlana - me" src="https://user-images.githubusercontent.com/10253713/88852802-105ada80-d1ef-11ea-8d82-93cde97a0958.png">
 
+- 🔭 I’m currently working at [GreenMobility](https://www.greenmobility.com/dk/en/)
 - 🌱 I’m currently learning **TypeScript**
 - :world_map: Favourite countries: Portugal :portugal: and Japan :jp: 
 - :heart: Love to travel with my family :family_man_woman_girl_boy:
