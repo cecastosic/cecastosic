@@ -6,6 +6,7 @@
 - :heart: Love to travel with my family :family_man_woman_girl_boy:
 - ⚡ Fun fact: I don't like cycling :biking_woman:
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=socrates)
 
 <!--
 **cecastosic/cecastosic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
