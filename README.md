@@ -7,16 +7,13 @@
 - ⚡ Fun fact: I don't like cycling :biking_woman:
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default)
-
-
 <!--
 **cecastosic/cecastosic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![My's github stats](https://github-readme-stats.vercel.app/api?username=cecastosic&count_private=true&show_icons=true)](https://github.com/cecastosic/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecastosic)](https://github.com/cecastosic/github-readme-stats)
 Here are some ideas to get you started:
-
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
