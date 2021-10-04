@@ -1,6 +1,5 @@
 <img width="967" alt="Svetlana - me" src="https://user-images.githubusercontent.com/10253713/88852802-105ada80-d1ef-11ea-8d82-93cde97a0958.png">
 
-- 🔭 I’m currently working at [GreenMobility](https://www.greenmobility.com/dk/en/)
 - 🌱 I’m currently learning **Docker**, **React Native** ...
 - :world_map: Favourite countries: Portugal :portugal: and Japan :jp: 
 - :heart: Love to travel with my family :family_man_woman_girl_boy:
@@ -14,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecastosic)](https://github.com/cecastosic/github-readme-stats)
 Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+- 🔭 I’m currently working at [GreenMobility](https://www.greenmobility.com/dk/en/)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
