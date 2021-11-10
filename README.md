@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working at [Mærsk](https://www.maersk.com/)
 - 🌱 I’m currently learning **Flutter**, **Dart**, **AWS**, **Docker** ...
-- :world_map: Favourite countries: Portugal :portugal: and Japan :jp: 
+- :world_map: Favourite countries: Portugal :portugal: and Japan :jp: 
 - :heart: Love to travel with my family :family_man_woman_girl_boy:
 - ⚡ Fun fact: I don't like cycling :biking_woman:
-
 
 <!--
 **cecastosic/cecastosic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
